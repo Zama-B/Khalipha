@@ -12,9 +12,9 @@
 
 # 📖 Overview
 
-Khalipha is an AI-powered career assistant and intelligent career development platform designed to help users navigate career exploration, career transitions, job opportunities, interview preparation, and skills development through conversational AI.
+Khalipha is an AI-powered career assistant and intelligent career development platform designed to help users navigate career exploration, career transitions, job opportunities, interview preparat[...]
 
-The platform combines optimized prompt engineering, real-time AI streaming, modern frontend architecture, and user-focused interaction design to deliver fast, structured, and actionable career guidance.
+The platform combines optimized prompt engineering, real-time AI streaming, modern frontend architecture, and user-focused interaction design to deliver fast, structured, and actionable career gui[...]
 
 Unlike generic AI chatbots, Khalipha is intentionally engineered to provide concise, high-value responses optimized for clarity, usability, and real-world action.
 
@@ -130,43 +130,43 @@ Built with a clean modern interface focused on:
 
 # 📸 Application Screenshots
 
+## 🔐 Sign In Page
+
+![Sign In](./Screenshot%202026-05-21%20103430.png)
+
+User authentication interface for secure access to personalized career guidance.
+
+---
+
+## 🎯 Prompt Button / Quick Actions
+
+![Quick Actions](./Screenshot%202026-05-21%20152636.png)
+
+Pre-built prompt categories helping users instantly access structured career guidance.
+
+---
+
+## 📜 Chat History
+
+![Chat History](./Screenshot%202026-05-21%20152708.png)
+
+Conversation history interface allowing users to review and access previous career discussions.
+
+---
+
+## 💬 First Message / Chat Interface
+
+![First Message](./Screenshot%202026-05-21%20152752.png)
+
+Initial conversational interface with fast AI-generated career responses and optimized interaction design.
+
+---
+
 ## 🌍 Landing Page
 
-![Landing Page](./screenshots/landing-page.png)
+![Landing Page](./Screenshot%202026-05-21%20152827.png)
 
 Modern AI-focused landing page introducing Khalipha's mission to provide intelligent career guidance through conversational AI.
-
----
-
-## 🤖 AI Chat Interface
-
-![AI Chat](./screenshots/chat-interface.png)
-
-Real-time conversational interface with fast AI-generated career responses and optimized interaction design.
-
----
-
-## ⚡ Quick-Action Prompt System
-
-![Quick Actions](./screenshots/quick-actions.png)
-
-Prebuilt prompt categories helping users instantly access structured career guidance.
-
----
-
-## 📊 Streaming Response Experience
-
-![Streaming UI](./screenshots/streaming-ui.png)
-
-Live AI streaming architecture displaying generated responses token-by-token for faster user feedback.
-
----
-
-## 📱 Mobile Responsive Design
-
-![Mobile View](./screenshots/mobile-view.png)
-
-Fully responsive mobile-first design optimized for accessibility and seamless interaction across devices.
 
 ---
 
